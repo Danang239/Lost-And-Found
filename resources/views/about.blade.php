@@ -11,15 +11,15 @@
 
         <!-- Teks Deskripsi dengan animasi fade-in -->
         <div class="w-full md:w-1/2 animate-fadeIn">
-            <h1 class="text-4xl font-extrabold mb-6 text-gray-900">Tentang Aplikasi Lost & Found</h1>
+            <h1 class="text-4xl font-extrabold mb-6 text-gray-900">Tentangs Aplikasi Lost & Found</h1>
             <p class="text-gray-700 leading-relaxed mb-6 text-lg">
-                Aplikasi ini dibuat untuk membantu pengguna melaporkan barang yang hilang maupun ditemukan. 
+                Aplikasi ini dibuat untuk membantu pengguna melaporkan barang yang hilang maupun ditemukan.
                 Setiap pengguna bisa membuat laporan, melihat daftar barang, serta menghubungi pemilik jika menemukan barang yang sesuai.
             </p>
             <p class="text-gray-700 leading-relaxed mb-8 text-lg">
                 Tujuan kami adalah menciptakan lingkungan yang aman dan terpercaya bagi pengguna untuk saling membantu menemukan barang-barang berharga yang hilang.
             </p>
-            <a href="{{ route('dashboard') }}" 
+            <a href="{{ route('dashboard') }}"
                class="inline-block bg-indigo-600 hover:bg-indigo-700 text-white font-semibold px-6 py-3 rounded shadow-lg transition duration-300">
                 Mulai Cari Barangmu
             </a>
